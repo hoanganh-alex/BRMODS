@@ -15,7 +15,7 @@
 3. Test: `BR.Mods.Launcher.exe --verify-downloads` (exit 0 = tải OK).
 
 ## Dùng (máy chơi game, giữ launcher)
-1. Server authswap 443 đang chạy (bắt buộc, như cũ).
+1. Server auth brmod.
 2. Mở HD-Player → chạy `BR.Mods.Launcher.exe` (bản patch) → `Injecao concluida!`.
 3. Nhập key trong game → main menu.
 
