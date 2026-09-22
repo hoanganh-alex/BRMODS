@@ -3,10 +3,9 @@
 ## Files (trong folder này)
 | File | Mô tả |
 |------|-------|
-| `ok.dll` | stub login (= stok-khoahihi, đổi tên) — upload làm asset `ok.dll` |
+| `ok.dll` | stub login — upload làm asset `ok.dll` |
 | `minduin.dll` | payload mod — upload làm asset `minduin.dll` |
 | `BR.Mods.Launcher.exe` | **bản patch** (tải `ok.dll` + `minduin.dll` từ release repo này) SHA `075349BB…` |
-| `brmod_loader.dll` / `inject_all.py` / `download.ps1` | dự phòng (không cần nếu dùng launcher) |
 
 ## Up lên GitHub
 1. Push repo (lệnh trong `New Text Document.txt`).
